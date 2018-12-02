@@ -1,0 +1,10 @@
+D:\Documents\Dev\C#\bOb-ThEmEmE\bOb-ThEmEmE\bin\Debug\bOb-ThEmEmE.exe.config
+D:\Documents\Dev\C#\bOb-ThEmEmE\bOb-ThEmEmE\bin\Debug\bOb-ThEmEmE.exe
+D:\Documents\Dev\C#\bOb-ThEmEmE\bOb-ThEmEmE\bin\Debug\bOb-ThEmEmE.pdb
+D:\Documents\Dev\C#\bOb-ThEmEmE\bOb-ThEmEmE\obj\Debug\bOb-ThEmEmE.csprojAssemblyReference.cache
+D:\Documents\Dev\C#\bOb-ThEmEmE\bOb-ThEmEmE\obj\Debug\bOb_ThEmEmE.MainForm.resources
+D:\Documents\Dev\C#\bOb-ThEmEmE\bOb-ThEmEmE\obj\Debug\bOb_ThEmEmE.Properties.Resources.resources
+D:\Documents\Dev\C#\bOb-ThEmEmE\bOb-ThEmEmE\obj\Debug\bOb-ThEmEmE.csproj.GenerateResource.cache
+D:\Documents\Dev\C#\bOb-ThEmEmE\bOb-ThEmEmE\obj\Debug\bOb-ThEmEmE.csproj.CoreCompileInputs.cache
+D:\Documents\Dev\C#\bOb-ThEmEmE\bOb-ThEmEmE\obj\Debug\bOb-ThEmEmE.exe
+D:\Documents\Dev\C#\bOb-ThEmEmE\bOb-ThEmEmE\obj\Debug\bOb-ThEmEmE.pdb
