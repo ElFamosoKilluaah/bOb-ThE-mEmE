@@ -18,18 +18,8 @@ namespace bOb_ThEmEmE {
          * That's a retarded program.
          */
         private void pictureBox1_Click(object sender, EventArgs e) {
-            StringBuilder sb = new StringBuilder();
-            Boolean maj = false;
-
-            foreach (char c in text) {
-                if (maj) sb.Append(c.ToString().ToUpper());
-
-                else sb.Append(c.ToString());
-
-                maj = !maj;
-            }
             MessageBox.Show("Copied to clipboard");
-            Clipboard.SetText(sb.ToString());
+            Clipboard.SetText(Program.bobMeme(text));
 
         }
 
